@@ -24,7 +24,7 @@ namespace simplecode3
             else if (yourChange == "Евро") 
             {
                 yourKonvert = yourMoney * numberEuro;
-                Console.WriteLine($"Вот столько у тебя рублей {yourKonvert}");
+                Console.WriteLine($"Вот столько у тебя {yourKonvert} рублей");
             }
             else
             {
